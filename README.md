@@ -1,6 +1,7 @@
 # EMI-CALCULATOR
 A UI that accepts loan amount and loan tenure as inputs from user and displays the rate of interest and EMI Deployment: https://emi-calculator-6kgw774rm.now.sh/
-Installation
+
+# Installation
 To install, clone the repository to your preferred location on your machine:
 
 git clone https://github.com/dshankar4/EMI-Calculator.git
